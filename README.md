@@ -21,7 +21,7 @@ The required folders will be created automatically, and the files will be organi
 ## Requirements
 
 * Windows
-* Python 3.x
+* Python
 
 ## How to Run
 
