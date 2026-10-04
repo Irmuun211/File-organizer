@@ -25,10 +25,10 @@ The required folders will be created automatically, and the files will be organi
 
 ## How to Run
 
-Download the project and open `organizer.py` with Python.
+Download the project and open the folder containing `organizer.py`.
 
-Or run it from Command Prompt:
+Open Command Prompt in that folder and run:
 
-```bash
-python organizer.py
+```cmd
+py organizer.py
 ```
