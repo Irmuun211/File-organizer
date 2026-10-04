@@ -35,6 +35,8 @@ The program **only moves files from Downloads or files directly inside the Pictu
 
 It does **not** search through other folders or subfolders.
 
+The required folders will be created automatically, and the files will be organized by type.
+
 ## Requirements
 
 * Windows
@@ -47,5 +49,3 @@ Download or clone the repository, then run:
 ```bash
 python organizer.py
 ```
-
-The required folders will be created automatically, and the files will be organized by type.
