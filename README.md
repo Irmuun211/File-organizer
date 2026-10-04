@@ -7,8 +7,8 @@ A simple Python script that automatically organizes files on Windows based on th
 * **Downloads** → Apps, Archives, Other
 * **Pictures** → Images, GIF
 * **Documents** → PDF, PowerPoint, Text, Word, Other
-* **Audio files from Downloads** → Music
-* **Video files from Downloads** → Videos
+* **Audio files from Downloads** → Music (No folder)
+* **Video files from Downloads** → Videos (No folder)
 
 ## Important
 
