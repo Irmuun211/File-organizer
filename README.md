@@ -27,7 +27,7 @@ The required folders will be created automatically, and the files will be organi
 
 Download the project and open the folder containing `organizer.py`.
 
-Open Command Prompt in that folder and run:
+Open Terminal in that folder and run:
 
 ```cmd
 py organizer.py
