@@ -4,30 +4,11 @@ A simple Python script that automatically organizes files on Windows based on th
 
 ## What It Does
 
-The program organizes files into the following folders:
-
-* **Downloads**
-
-  * Apps
-  * Archives
-  * Other
-* **Pictures**
-
-  * Images
-  * GIF
-* **Documents**
-
-  * PDF
-  * PowerPoint
-  * Text
-  * Word
-  * Other
-* **Music**
-
-  * Audio files from Downloads are moved here
-* **Videos**
-
-  * Video files from Downloads are moved here
+* **Downloads** → Apps, Archives, Other
+* **Pictures** → Images, GIF
+* **Documents** → PDF, PowerPoint, Text, Word, Other
+* **Audio files from Downloads** → Music
+* **Video files from Downloads** → Videos
 
 ## Important
 
@@ -42,9 +23,11 @@ The required folders will be created automatically, and the files will be organi
 * Windows
 * Python 3.x
 
-## Usage
+## How to Run
 
-Download or clone the repository, then run:
+Download the project and open `organizer.py` with Python.
+
+Or run it from Command Prompt:
 
 ```bash
 python organizer.py
