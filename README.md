@@ -1,16 +1,51 @@
-#Simple Python File Organizer
+# Python File Organizer
 
-Beginner-friendly Python script that automatically sorts folders into categorized subfolders (like Images and Documents).
+A simple Python script that automatically organizes files on Windows based on their file type.
 
-## Features
-* **Automatic Categorization:** Sorts files by extension into logical folders.
-* **Safe Duplication Handling:** Automatically renames files if a duplicate name already exists so nothing gets overwritten.
-* **Dry-Run Mode:** Preview what changes will happen before moving any files.
+## What It Does
 
-## How to Use
+The program organizes files into the following folders:
 
-1. Make sure you have Python installed.
-2. Download or copy the `organizer.py` script.
-3. Run the script in your terminal:
-   ```bash
-   python organizer.py
+* **Downloads**
+
+  * Apps
+  * Archives
+  * Other
+* **Pictures**
+
+  * Images
+  * GIF
+* **Documents**
+
+  * PDF
+  * PowerPoint
+  * Text
+  * Word
+  * Other
+* **Music**
+
+  * Audio files from Downloads are moved here
+* **Videos**
+
+  * Video files from Downloads are moved here
+
+## Important
+
+The program **only moves files from Downloads or files directly inside the Pictures and Documents folders**.
+
+It does **not** search through other folders or subfolders.
+
+## Requirements
+
+* Windows
+* Python 3.x
+
+## Usage
+
+Download or clone the repository, then run:
+
+```bash
+python organizer.py
+```
+
+The required folders will be created automatically, and the files will be organized by type.
