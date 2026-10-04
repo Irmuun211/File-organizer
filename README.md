@@ -1,4 +1,4 @@
-Simple Python File Organizer
+##Simple Python File Organizer
 
 Beginner-friendly Python script that automatically sorts folders into categorized subfolders (like Images and Documents).
 
