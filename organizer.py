@@ -95,7 +95,7 @@ APP = {
 }
 
 
-# MOVE FILE SAFELY
+
 
 def move_file(file, destination):
     new_file = destination / file.name
@@ -163,7 +163,7 @@ for file in list(D.iterdir()):
 
 
 
-# ORGANIZE DOCUMENTS
+#ORGANIZE DOCUMENTS
 
 
 for file in list(DOC.iterdir()):
